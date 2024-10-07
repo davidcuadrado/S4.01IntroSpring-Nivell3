@@ -23,3 +23,11 @@
 >
 >-          Una captura de pantalla per cada entorn, on es vegi l’execució des de Postman usant l’entorn i les variables definides en ells.
 
+
+Recursos útiles:
+
+How to export a Postman environment: 
+>https://www.youtube.com/watch?v=4TYNbeHX3h0
+
+Configurar variables de entorno: 
+>https://www.youtube.com/watch?v=6OwT2pkFi-4
